@@ -1,0 +1,6 @@
+build/
+*.gradle/
+target/
+jmeter.log
+.idea/
+*.iml
